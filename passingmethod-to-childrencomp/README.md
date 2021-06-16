@@ -1,0 +1,1 @@
+### Passing Methods to children components to work with State 

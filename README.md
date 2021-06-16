@@ -12,3 +12,9 @@ Classes : Syntatical Sugar for constructor function
 - Performance Benefits 
 - Inherits Functionality 
 - component class is used to transfer from Basic E6 class
+
+### this.setState({})
+
+- State immutable 
+- shallow merge 
+- this.setState({ })
